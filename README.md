@@ -80,7 +80,7 @@
 
 <hr/>
 
-<h2 align="center">HacktoberFest 2023 </h2>
+<h2 align="center">HacktoberFest 2023 / 2024 </h2>
 
 [![](https://holopin.me/captain_ankit)](https://holopin.io/@captain_ankit)
 
